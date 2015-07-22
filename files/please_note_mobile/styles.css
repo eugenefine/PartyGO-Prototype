@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:840px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:24px;
+  top:48px;
+  width:816px;
+  height:400px;
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  color:#4C4C4C;
+  line-height:30px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:816px;
+  height:400px;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:10px;
+  width:816px;
+  word-wrap:break-word;
+}
