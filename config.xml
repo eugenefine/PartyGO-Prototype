@@ -7,7 +7,7 @@
     <author email="support@PartyGOapp.com" href="http://PartyGOapp.com">
         Verie, LLC Team
     </author>
-    <content src="html/partygo.html" />
+    <content src="partygo.html" />
     <access origin="*" />
 
    <icon src="icon.jpg" />
