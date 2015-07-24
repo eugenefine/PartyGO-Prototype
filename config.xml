@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.partygo.mobile.prototype" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>PartyGO</name>
+    <description>
+        Platform for Direct Sales Independent Consultants
+    </description>
+    <author email="support@PartyGOapp.com" href="http://PartyGOapp.com">
+        Verie, LLC Team
+    </author>
+    <content src="html/partygo.html" />
+    <access origin="*" />
+
+   <icon src="icon.jpg" />
+    <splash src="splash.jpg" />
+
+	<preference name="android-minSdkVersion" value="10" />
+	<preference name="android-targetSdkVersion" value="19" />
+	<preference name="EnableViewportScale" value="true"/>
+	<preference name="SplashScreen" value="@drawable/screen" />
+	<preference name="DisallowOverscroll" value="true"/>
+	<preference name="Orientation" value="portrait" />
+	<preference name="iosPersistentFileLocation" value="Library" />
+</widget>
