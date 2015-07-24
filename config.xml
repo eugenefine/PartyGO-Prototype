@@ -10,9 +10,10 @@
     <content src="partygo.html" />
     <access origin="*" />
 
-   <icon src="icon.jpg" />
-    <splash src="splash.jpg" />
-
+    <icon src="icon.png" />
+    <splash src="splash.png" />
+    
+    <preference name="Fullscreen" value="true" />
 	<preference name="android-minSdkVersion" value="10" />
 	<preference name="android-targetSdkVersion" value="19" />
 	<preference name="EnableViewportScale" value="true"/>
